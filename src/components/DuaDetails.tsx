@@ -36,9 +36,6 @@ export default function DuaDetails({ setCurrentPage }: DuaDetailsProps) {
                 className="w-full h-48 object-contain mb-4"
             />
             <h2 className="text-xl font-bold text-gray-800 mb-2">আমাদের অ্যাপটি ফ্রি</h2>
-            <div className="text-center py-4 text-[#1c7a7c] font-medium text-lg border-y border-gray-100 mb-6">
-                বিসমিল্লাহির রহমানির রহিম
-            </div>
             <p className="text-gray-600 text-sm mb-6">আমাদের এই অ্যাপটি সম্পূর্ণ ফ্রি। আপনার সামান্য অনুদান আমাদের অ্যাপটিকে আরও উন্নত করতে এবং চালিয়ে যেতে সাহায্য করবে।</p>
 
             <div className="bg-gray-50 p-4 rounded-xl border border-gray-200 mb-4">
