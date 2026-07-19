@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Namaj Shikkha",
+  "description": "An educational application for learning Namaj (Prayer).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
