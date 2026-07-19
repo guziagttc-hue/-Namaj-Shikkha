@@ -11,7 +11,7 @@ const menuItems = [
   { id: 'salah-details', title: 'সালাত পড়ার নিয়ম', img: 'https://res.cloudinary.com/djginu4oz/image/upload/v1784352565/Gemini_Generated_Image_e4mupve4mupve4mu_copy_ocdsqm.jpg', color: '#3a8789' },
   { id: 'prayer-times', title: 'নামাজের ওয়াক্ত ও কিবলা', img: 'https://res.cloudinary.com/djginu4oz/image/upload/v1784353476/Gemini_Generated_Image_e6osghe6osghe6os_r2qgyv.png', color: '#e4f6f6' },
   { id: 'child-salah-education', title: 'শিশুদের নামাজ শিক্ষা', img: 'https://res.cloudinary.com/djginu4oz/image/upload/v1784354590/Gemini_Generated_Image_n35tfrn35tfrn35t_cn24e4.png', color: '#3a8789' },
-  { id: 'dua-details', title: 'দোয়া ও যিকির', img: '', color: '#3a8789' },
+  { id: 'dua-details', title: 'Donate Box', img: 'https://res.cloudinary.com/djginu4oz/image/upload/v1784447669/pngtree-donation-box-png-image_9046187_kb7cro.png', color: '#3a8789' },
 ];
 
 export default function Dashboard({ setCurrentPage }: DashboardProps) {
@@ -75,6 +75,7 @@ export default function Dashboard({ setCurrentPage }: DashboardProps) {
             </motion.div>
           ))}
         </motion.div>
+
       </div>
 
       {/* Bottom Navigation - Fixed at bottom of the container */}
